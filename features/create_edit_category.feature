@@ -8,5 +8,4 @@ Feature: Create and Edit Categories
     And I am logged into the admin panel
     And I am on the admin categories page
     Then I should see "Categories"
-    And I should see "Save"
     
